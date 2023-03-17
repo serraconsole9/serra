@@ -284,7 +284,7 @@ slide2 p{
     font-size: 40px;
     border: none; 
     color: rgb(255, 255, 255);
-    margin-top: 40px;
+    margin-top: 30px;
 }
 
 .slide2 h2{
@@ -292,7 +292,7 @@ slide2 p{
 }
 
 .slide2 iframe{
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
 .slide2 h3{

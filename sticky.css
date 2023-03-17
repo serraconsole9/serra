@@ -275,6 +275,16 @@ header{
     background-color: rgb(13, 5, 36);
     height: 90vh;
     background-attachment: fixed;
+} 
+
+slide2 p{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 40px;
+    border: none; 
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
 }
 
 .slide2 h2{
@@ -291,7 +301,7 @@ header{
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 40px;
     border: none; 
-    color: rgb(0, 0, 0);
+    color: white;
     margin-top: 90px;
 }
 

@@ -277,7 +277,7 @@ header{
     background-attachment: fixed;
 } 
 
-slide2 p{
+slide2 a{
     text-align: center;
     text-transform: uppercase;
     font-family: 'Roboto Condensed', sans-serif;
